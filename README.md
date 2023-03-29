@@ -2,7 +2,9 @@
 Logi Coolのマウスでタブ移動などを可能にする
 
 # how to use
-```sh
-$ xbindkeys
-$ imwheel
+command line
+
+```bash
+xbindkeys
+imwheel
 ```
