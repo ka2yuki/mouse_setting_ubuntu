@@ -1,5 +1,5 @@
 # mouse_setting_ubuntu
-Logi Coolのマウスでタブ移動などを可能にする
+LogiCoolのマウスでどうしたらUbunto上でタブ移動など可能になるか触ってみた。
 
 # how to use
 command line
